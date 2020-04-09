@@ -1,0 +1,15 @@
+﻿  ООП.cpp
+c:\users\win10\desktop\ооп\_решения\lab_oop_7\ооп.cpp(23): warning C4091: extern : пропускается слева от "typeEnk", когда ни одна переменная не объявлена
+c:\users\win10\desktop\ооп\_решения\lab_oop_7\ооп.cpp(50): warning C4091: extern : пропускается слева от "typeFuel", когда ни одна переменная не объявлена
+c:\users\win10\desktop\ооп\_решения\lab_oop_7\ооп.cpp(84): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\win10\desktop\ооп\_решения\lab_oop_7\ооп.cpp(312): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  c:\users\win10\desktop\ооп\_решения\lab_oop_7\ооп.cpp(312): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\win10\desktop\ооп\_решения\lab_oop_7\ооп.cpp(286): note: выполняется компиляция ссылки на экземпляр шаблон функции "enk<int>::enk(typeEnk,char *,T,double,int)"
+          with
+          [
+              T=int
+          ]
+  c:\users\win10\desktop\ооп\_решения\lab_oop_7\ооп.cpp(275): note: выполняется компиляция ссылки на экземпляр шаблон класс "enk<int>"
+c:\users\win10\desktop\ооп\_решения\lab_oop_7\ооп.cpp(315): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note:  см. объявление "strcpy"
+  ООП.vcxproj -> C:\Users\win10\Desktop\ООП\_Решения\Lab_OOP_7\x64\Debug\ООП.exe
